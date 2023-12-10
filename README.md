@@ -6,6 +6,6 @@ This project prepares data for a recommendation system to help people find movie
 5) The Application then merges the data retrieved from the New York Times API and the Movie Database API's, based on a movie title. It then cleans up the data.
 6) Finally, an output file is created containing the data
 
-The code in this project is written in Python using the Pandas library. It uses several Pandas functions such as concat, join, groupby, sort etc and also uses DataFrames and Pivot tables.
+The code in this project is written in Python using the Pandas library. It uses several functions such as json_normalize, merge, requests.get, reset_index, to_csv etc.
 
 The project can be run on either Visual Studio Code or Jupyter.
