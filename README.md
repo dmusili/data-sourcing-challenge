@@ -1,4 +1,4 @@
-This project prepares sdata for a recommendation system to help people find movie reviews and the related movies. The process implemented in this project occurs as follows
+This project prepares data for a recommendation system to help people find movie reviews and the related movies. The process implemented in this project occurs as follows
 1) Data is first extracted from the New York Times API: The application calls the New York times articles search API and retrieves movies reviewed between January 1st 2013 and May 31st 2023.
 2) The Applicaiton then retrieves the Movie titles retrieved from New York Times API.
 3) The application then calls the The Movie Database API's to retrieve the movie id and the movie details for each Movie Title retrieved from the New York Times API.
