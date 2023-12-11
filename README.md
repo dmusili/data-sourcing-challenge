@@ -9,3 +9,5 @@ This project prepares data for a recommendation system to help people find movie
 The code in this project is written in Python using the Pandas library. It uses several functions such as json_normalize, merge, requests.get, reset_index, to_csv etc.
 
 The project can be run on either Visual Studio Code or Jupyter.
+
+Source Code: https://github.com/dmusili/data-sourcing-challenge/blob/main/retrieve_movie_data.ipynb
